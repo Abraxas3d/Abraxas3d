@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on broadband microwave digital communications systems for the amateur radio bands!
 - 🌱 I’m currently learning Agile. 
+- 💬 Ask me about how to play in an orchestra at Burning Man
 - 👯 I’m looking to collaborate on algorithmic music composition, machine learning in the radio environment, and more.
 - 📫 How to reach me: @abraxas3d on twitter!
 - 😄 Pronouns: she/her
