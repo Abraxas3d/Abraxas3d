@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on broadband microwave digital communications systems for the amateur radio bands!
-- 🌱 I’m currently learning Agile. 
-- 💬 Ask me about how to get involved in GNU Radio
+- 🌱 I’m taking a Xilnx PetaLinux class, a RISC-V workshop, and an Agile certification. 
+- 💬 Ask me about how to get involved at Open Research Institute.
 - 👯 I’m looking to collaborate on algorithmic music composition, machine learning in the radio environment, and more.
 - 📫 How to reach me: @abraxas3d on twitter!
 - 😄 Pronouns: she/her
